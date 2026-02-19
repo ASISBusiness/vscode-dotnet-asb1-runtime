@@ -120,8 +120,8 @@
 	},
 	"devDependencies": {
 		"@types/source-map-support": "^0.5.6",
-		"copy-webpack-plugin": "^9.0.1",
-		"webpack": "5.76.0",
+		"copy-webpack-plugin": "^13.0.1",
+		"webpack": "5.105.2",
 		"webpack-cli": "4.9.1"
 	},
 	"__metadata": {
